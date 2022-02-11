@@ -1,0 +1,41 @@
+H3{
+    color: rgb(101, 101, 206);
+}
+
+nav{
+    justify-self:left;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: right;
+}
+
+li a{
+    padding: 2.2em;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    width: 60px;
+    display: block;
+}
+
+li a:hover{
+    background-color: rgb(145, 206, 245); 
+}
+
+.logo{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+

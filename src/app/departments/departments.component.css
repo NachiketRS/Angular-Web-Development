@@ -1,0 +1,50 @@
+title{
+    background-color: red;
+}
+
+h2{
+    color: yellow;
+    background-attachment: green;
+    font-style: italic;
+}
+h3{
+    color:salmon;
+}
+
+.container{
+    height:fit-content;/* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size:contain; /* Resize the background image to cover the entire container */
+}
+
+.text-block {
+    color: cornsilk;
+    position: absolute;
+    top: 75px;
+    left: 30px;
+  }
+
+.text-cap{
+    color: cornsilk;
+    position: absolute;
+    top: 75px;
+    left: 700px;
+
+}
+
+.text-head{
+    color: cornsilk;
+    position: absolute;
+    top: 75px;
+    left: 400px;
+
+}
+
+.text-big{
+    color: cornsilk;
+    position: absolute;
+    top: 75px;
+    left: 1250px;
+
+}

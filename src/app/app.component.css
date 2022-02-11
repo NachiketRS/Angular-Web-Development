@@ -1,0 +1,17 @@
+.navbar
+{
+    background-color:#e48181 ;
+}
+.navbar-light .navbar-nav .navbar-link
+{
+    color: #000000;
+    font: size 80px; 
+
+}
+
+.navbar-light .navbar-nav .navbar-link:hover
+{
+    text-decoration:underline ;
+    
+}
+

@@ -1,0 +1,54 @@
+.home img
+{
+    width: 110%;
+    height: 800px;
+    object-position: right;
+    object-fit:fill ;
+}
+
+.homecontent
+{
+    position: absolute;
+    top: 22%;
+    left: 18%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+
+}
+.homecontent h1
+{
+    color:black;
+    font-size: 35px;
+    text-align: center;
+
+}
+.homecontent h2
+{
+    margin-top: 20px;
+    text-align: center;
+}
+
+@media screen and (max-width:400px){
+    .home img
+{
+    
+    height: 1200px;
+}  
+.homecontent h1
+{
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+.bg {
+    background-image: url("../../assets/clg.jpg");
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}
+
+
